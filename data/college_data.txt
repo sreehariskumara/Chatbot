@@ -1,0 +1,43 @@
+AWH Engineering College is a private self-financing institution located in Kuttikkattoor, Kozhikode, Kerala. The college was established in 2001 and is affiliated with APJ Abdul Kalam Technological University (KTU). It is approved by AICTE and offers undergraduate and postgraduate programs in engineering and technology.
+
+Departments:
+- Computer Science & Engineering (CSE)
+- Electronics & Communication Engineering (ECE)
+- Electrical & Electronics Engineering (EEE)
+- Mechanical Engineering (ME)
+- Civil Engineering (CE)
+- Artificial Intelligence & Data Science (AI & DS)
+
+Facilities:
+- Well-equipped labs and workshops
+- Central Library with digital resources
+- Hostel facilities for boys and girls
+- Sports and recreation facilities
+- Cafeteria and canteen
+- Transportation services
+
+Clubs and Activities:
+- IEEE Student Branch
+- IEDC (Innovation and Entrepreneurship Development Cell)
+- NSS (National Service Scheme)
+- MuLearn Community
+- Technical and cultural fests
+
+Contact Information:
+- Address: Kuttikkattoor, Kozhikode, Kerala - 673008
+- Phone: +91 495 235 2005
+- Email: info@awhengg.org
+- Website: [www.awhengg.org](http://www.awhengg.org)
+
+Admission:
+- B.Tech programs require KEAM entrance exam qualification
+- M.Tech admissions based on GATE scores or university entrance exams
+
+Placement:
+- Regular placement training and campus recruitment drives
+- Collaboration with companies like TCS, Infosys, Wipro, and Tech Mahindra
+- Internship opportunities for students
+
+Achievements:
+- Several university rank holders in KTU exams
+- Active participation in hackathons and coding competitions
